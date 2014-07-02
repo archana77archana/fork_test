@@ -5,4 +5,6 @@ Let's learn forking and pull requests!
 
 I am starting
 
-There is a word spelt rong in this sentence! :-(
+There is a word spelt wrong in this sentence! :-(
+
+And thus bug resolved. :)
